@@ -2,6 +2,11 @@
   "name": "@wysimark/standalone",
   "version": "3.0.20",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.comportive/wysimark.git",
+    "directory": "packages/standalone"
+  },
   "author": "Sunny Hirai <thesunny@gmail.com>",
   "main": ".dist/node/index.cjs.js",
   "module": ".dist/node/index.esm.js",
