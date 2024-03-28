@@ -2,6 +2,11 @@
   "name": "@wysimark/react",
   "version": "3.0.20",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.comportive/wysimark.git",
+    "directory": "packages/react"
+  },
   "author": "Sunny Hirai <thesunny@gmail.com>",
   "main": ".dist/node/index.cjs.js",
   "module": ".dist/node/index.esm.js",
